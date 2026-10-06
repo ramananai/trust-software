@@ -1,4 +1,4 @@
-# Unihope Foundation - Trust Accounting Software
+# Trust Accounting Software
 
 Local, offline, multi-year accounts for the trust. Python + Streamlit + SQLite. All data stays in `data/unihope.db`.
 
